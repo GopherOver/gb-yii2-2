@@ -17,6 +17,18 @@ deploying the application in different environments.
 
 Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
+Requirements: 
+ -
+ * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+ * [Vagrant](https://www.vagrantup.com/downloads.html)
+
+Use `vagrant up` command to install and setup virtual machine with your project.
+
+Open in browser: 
+* [yii2-frontend.local](http://yii2-frontend.local) - frontend app
+* [yii2-backend.local](http://yii2-backend.local) - backend app
+
+
 [![Latest Stable Version](https://poser.pugx.org/yiisoft/yii2-app-advanced/v/stable.png)](https://packagist.org/packages/yiisoft/yii2-app-advanced)
 [![Total Downloads](https://poser.pugx.org/yiisoft/yii2-app-advanced/downloads.png)](https://packagist.org/packages/yiisoft/yii2-app-advanced)
 [![Build Status](https://travis-ci.org/yiisoft/yii2-app-advanced.svg?branch=master)](https://travis-ci.org/yiisoft/yii2-app-advanced)
