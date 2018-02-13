@@ -6,6 +6,9 @@
     <br>
 </p>
 
+Console commands:
+-
+* `yii about` - tells about author :)
 
 Requirements: 
  -
